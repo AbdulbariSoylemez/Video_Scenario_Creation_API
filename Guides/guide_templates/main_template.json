@@ -1,0 +1,252 @@
+{
+    "GuideFor": "",
+    "Description": "",
+    "TargetAudienceCharacteristics": "",
+    "ContentObjectives": "",
+    "CalltoAction": [],
+    "SuccessMetrics": "",
+    "IsAdditionalInformationNeeded": false,
+    "Prerequisites": {
+        "TopicSelection": "",
+        "AdditionalInformation": {}
+    },
+    "Platforms": [],
+    "EstimatedDuration": "",
+    "VideoDraft": {
+        "SectionDescription": "",
+        "Prerequisites": {
+            "TopicSelection": "",
+            "AdditionalInformation": {}
+        },
+        "ExpectedOutcomes": {
+            "TargetAudienceProfile": {
+                "AgeRange": "The age range of the target audience, e.g., '18-24', '30-45', 'university students'.",
+                "Interests": ["A list of interests and hobbies relevant to the target audience."],
+                "Habits": "Focuses on the regular behaviors or practices of the target audience related to video consumption. This includes their viewing patterns, preferred platforms, times they are most likely to watch, and types of content they frequently engage with. ",
+                "Preferences": ["A list of preferences of the target audience, such as content style, tone, and specific elements they favor."]
+            },
+            "VideoGoalsAndConcept": {
+                "Goals": ["A list of specific goals the video aims to achieve, e.g., 'increase brand awareness', 'drive product sales'."],
+                "MainMessage": "The main message or takeaway intended to be conveyed by the video.",
+                "Purpose": "Defines the primary goal or intention behind creating the video, such as educating, entertaining, or informing the audience about a specific topic.",
+                "Concept": "The overarching concept or storyline of the video.",
+                "Theme": "Describes the overarching subject or concept of the video, providing a cohesive narrative or message throughout the content."
+            },
+            "NarratororCharacter":{
+                "Description": "The character is the protagonist of the video, the narrator is the narrator in the video. A video may have both, only one, or neither. This should be determined by the situation of the video.",
+                "Role": "Narrator or Character",
+                "WhoIsThis": "WhoIsThis (Narrator/Character), identifies whether the voice or perspective guiding the video is a specific character, a general narrator, or both, setting the tone and approach for the narrative.",
+                "Details": ["A list of details in-depth information about the narrator or character, including background information or relevant story elements that contribute to their role in the video."],
+                "Traits": ["A list of outlines the distinctive characteristics or qualities of the narrator or character, which can include personality traits, speaking style, or visual appearance, helping to create a more vivid and engaging video experience."]
+            }
+        },
+        "ResponseFormat": {
+            "TargetAudienceProfile": {
+                "AgeRange": "The age range of the target audience, e.g., '18-24', '30-45'.",
+                "Interests": ["A list of interests and hobbies relevant to the target audience."],
+                "Habits": "Focuses on the regular behaviors or practices of the target audience related to video consumption. This includes their viewing patterns, preferred platforms, times they are most likely to watch, and types of content they frequently engage with. ",
+                "Preferences": ["A list of preferences of the target audience, such as content style, tone, and specific elements they favor."]
+            },
+            "VideoGoalsAndConcept": {
+                "Goals": ["A list of specific goals the video aims to achieve, e.g., 'increase brand awareness', 'drive product sales'."],
+                "MainMessage": "The main message or takeaway intended to be conveyed by the video.",
+                "Purpose": "Defines the primary goal or intention behind creating the video, such as educating, entertaining, or informing the audience about a specific topic.",
+                "Concept": "The overarching concept or storyline of the video.",
+                "Theme": "Describes the overarching subject or concept of the video, providing a cohesive narrative or message throughout the content."
+            },
+            "NarratororCharacter":{
+                "Description": "The character is the protagonist of the video, the narrator is the narrator in the video. A video may have both, only one, or neither. This should be determined by the situation of the video.",
+                "Role": "Narrator",
+                "WhoIsThis": "WhoIsThis (Narrator/Character), identifies whether the voice or perspective guiding the video is a specific character, a general narrator, or both, setting the tone and approach for the narrative.",
+                "Details": ["A list of details in-depth information about the narrator or character, including background information or relevant story elements that contribute to their role in the video."],
+                "Traits": ["A list of outlines the distinctive characteristics or qualities of the narrator or character, which can include personality traits, speaking style, or visual appearance, helping to create a more vivid and engaging video experience."]
+            }
+        },
+        "Examples": []
+    },
+    "VideoOutline": {
+        "SectionDescription": "",
+        "Prerequisites": {
+            "TopicSelection": "",
+            "AdditionalInformation": {},
+            "TargetAudienceProfile": {
+                "AgeRange": "The age range of the target audience, e.g., '18-24', '30-45'.",
+                "Interests": ["A list of interests and hobbies relevant to the target audience."],
+                "Habits": "Focuses on the regular behaviors or practices of the target audience related to video consumption. This includes their viewing patterns, preferred platforms, times they are most likely to watch, and types of content they frequently engage with. ",
+                "Preferences": ["A list of preferences of the target audience, such as content style, tone, and specific elements they favor."]
+            },
+            "VideoGoalsAndConcept": {
+                "Goals": ["A list of specific goals the video aims to achieve, e.g., 'increase brand awareness', 'drive product sales'."],
+                "MainMessage": "The main message or takeaway intended to be conveyed by the video.",
+                "Purpose": "Defines the primary goal or intention behind creating the video, such as educating, entertaining, or informing the audience about a specific topic.",
+                "Concept": "The overarching concept or storyline of the video.",
+                "Theme": "Describes the overarching subject or concept of the video, providing a cohesive narrative or message throughout the content."
+            },
+            "NarratororCharacter":{
+                "Description": "The character is the protagonist of the video, the narrator is the narrator in the video. A video may have both, only one, or neither. This should be determined by the situation of the video.",
+                "Role": "Narrator or Character",
+                "WhoIsThis": "WhoIsThis (Narrator/Character), identifies whether the voice or perspective guiding the video is a specific character, a general narrator, or both, setting the tone and approach for the narrative.",
+                "Details": ["A list of details in-depth information about the narrator or character, including background information or relevant story elements that contribute to their role in the video."],
+                "Traits": ["A list of outlines the distinctive characteristics or qualities of the narrator or character, which can include personality traits, speaking style, or visual appearance, helping to create a more vivid and engaging video experience."]
+            }
+        },
+        "ExpectedOutcomes": {
+            "Introduction": {
+                "Hook": "Describe the initial scene or dialogue that will grab the audience's attention.",
+                "Background": "Briefly outline any context needed to understand the video's setting and premise."
+            },
+            "Development": [
+                {
+                    "Section": "1 (as many as there's supposed to be)",
+                    "CoreMessage": "Articulate the primary mesafe of this segment.",
+                    "KeyScenes": "Describe significant scenes and their narrative importance."
+                }
+            ],
+            "Conclusion": {
+                "WrapUp": "Summarize how the narrative will be brought to a close.",
+                "Takeaways": "Highlight the main points or calls to action intended for the audience."
+            },
+            "KeyScenesBreakdown": [
+                {
+                    "Scene": "1 (as many as there's supposed to be)",
+                    "Description": "Provide a vivid description of a key scene.",
+                    "Purpose": "Explain how it conveys a crucial part of the message."
+                }
+            ],
+            "StyleAndTone": {
+                "VisualStyle": "Define the visual elements that will characterize thwe video.",
+                "LinguisticStyle": "Describe the language and tone that will be used throughout the video."
+            }
+        },
+        "ResponseFormat": {
+            "Introduction": {
+                "Hook": "Describe the initial scene or dialogue that will grab the audience's attention.",
+                "Background": "Briefly outline any context needed to understand the video's setting and premise."
+            },
+            "Development": [
+                {
+                    "Section": "1 (as many as there's supposed to be)",
+                    "CoreMessage": "Articulate the primary mesafe of this segment.",
+                    "KeyScenes": [
+                        {
+                            "Scene": "1 (as many as there's supposed to be)",
+                            "Description": "Describe significant scenes and their narrative importance. (as many as there's supposed to be)",
+                            "Purpose": "Explain how it conveys a crucial part of the message."
+                        }
+                    ]
+                }
+            ],
+            "Conclusion": {
+                "WrapUp": "Summarize how the narrative will be brought to a close.",
+                "Takeaways": "Highlight the main points or calls to action intended for the audience."
+            },
+            "KeyScenesBreakdown": [
+                {
+                    "Scene": "1 (as many as there's supposed to be)",
+                    "Description": "Provide a vivid description of a key scene.",
+                    "Purpose": "Explain how it conveys a crucial part of the message."
+                }
+            ],
+            "StyleAndTone": {
+                "VisualStyle": "Define the visual elements that will characterize thwe video.",
+                "LinguisticStyle": "Describe the language and tone that will be used throughout the video."
+            }
+        },
+        "Examples": []
+    },
+    "VideoScenes": {
+        "SectionDescription": "",
+        "Prerequisites": {
+            "TopicSelection": "",
+            "AdditionalInformation": {},
+            "TargetAudienceProfile": {
+                "AgeRange": "The age range of the target audience, e.g., '18-24', '30-45'.",
+                "Interests": ["A list of interests and hobbies relevant to the target audience."],
+                "Habits": "Focuses on the regular behaviors or practices of the target audience related to video consumption. This includes their viewing patterns, preferred platforms, times they are most likely to watch, and types of content they frequently engage with. ",
+                "Preferences": ["A list of preferences of the target audience, such as content style, tone, and specific elements they favor."]
+            },
+            "VideoGoalsAndConcept": {
+                "Goals": ["A list of specific goals the video aims to achieve, e.g., 'increase brand awareness', 'drive product sales'."],
+                "MainMessage": "The main message or takeaway intended to be conveyed by the video.",
+                "Purpose": "Defines the primary goal or intention behind creating the video, such as educating, entertaining, or informing the audience about a specific topic.",
+                "Concept": "The overarching concept or storyline of the video.",
+                "Theme": "Describes the overarching subject or concept of the video, providing a cohesive narrative or message throughout the content."
+            },
+            "NarratororCharacter":{
+                "Description": "The character is the protagonist of the video, the narrator is the narrator in the video. A video may have both, only one, or neither. This should be determined by the situation of the video.",
+                "Role": "Narrator or Character",
+                "WhoIsThis": "WhoIsThis (Narrator/Character), identifies whether the voice or perspective guiding the video is a specific character, a general narrator, or both, setting the tone and approach for the narrative.",
+                "Details": ["A list of details in-depth information about the narrator or character, including background information or relevant story elements that contribute to their role in the video."],
+                "Traits": ["A list of outlines the distinctive characteristics or qualities of the narrator or character, which can include personality traits, speaking style, or visual appearance, helping to create a more vivid and engaging video experience."]
+            },
+            "Introduction": {
+                "Hook": "Describe the initial scene or dialogue that will grab the audience's attention.",
+                "Background": "Briefly outline any context needed to understand the video's setting and premise."
+            },
+            "Development": [
+                {
+                    "Section": "1 (as many as there's supposed to be)",
+                    "CoreMessage": "Articulate the primary mesafe of this segment.",
+                    "KeyScenes": [
+                        {
+                            "Scene": "1 (as many as there's supposed to be)",
+                            "Description": "Describe significant scenes and their narrative importance. (as many as there's supposed to be)",
+                            "Purpose": "Explain how it conveys a crucial part of the message."
+                        }
+                    ]
+                }
+            ],
+            "Conclusion": {
+                "WrapUp": "Summarize how the narrative will be brought to a close.",
+                "Takeaways": "Highlight the main points or calls to action intended for the audience."
+            },
+            "KeyScenesBreakdown": [
+                {
+                    "Scene": "1",
+                    "Description": "Provide a vivid description of a key scene.",
+                    "Purpose": "Explain how it conveys a crucial part of the message."
+                },
+                {
+                    "Scene": "2",
+                    "Description": "Provide a vivid description of a key scene.",
+                    "Purpose": "Explain how it conveys a crucial part of the message."
+                }
+            ],
+            "StyleAndTone": {
+                "VisualStyle": "Define the visual elements that will characterize thwe video.",
+                "LinguisticStyle": "Describe the language and tone that will be used throughout the video."
+            }
+        },
+        "ExpectedOutcomes": {
+            "Scenes": [
+                {
+                    "SceneNumber": "1 (as many as there's supposed to be)",
+                    "SceneDescription": "Each scene must be meticulously crafted to advance the narrative, convey key information, or evoke the intended emotional response from the audience. The number of scenes will be determined based on the complexity of the topic, the video's duration, and the narrative's pacing requirements.",
+                    "Dialogue": "Dialogues should be engaging and relevant to the scene, enhancing the storytelling or providing valuable information. The language and style of the dialogues should be tailored to fit the target audience's preferences and understanding.",
+                    "VoiceCharacteristics": "The voiceover or characters' speaking style should complement the video's tone, whether it's educational, inspirational, or entertaining. Characteristics such as tone, pace, and emotion play a crucial role in keeping the audience engaged and conveying the video's message.",
+                    "CameraMovements": "Camera movements should be purposeful, enhancing the visual storytelling by focusing on key elements, creating dynamism, or establishing the scene's setting. Techniques could range from static shots to dynamic pans, tilts, and zooms, depending on the scene's requirements.",
+                    "LightingAndShadow": "Lighting and shadow are essential for setting the mood, highlighting important details, or creating contrast. The lighting should align with the video's overall style and the emotional tone of each scene.",
+                    "Transitions": "Transitions between scenes should be smooth and coherent, maintaining the narrative flow. The choice of transitions (cuts, fades, dissolves, etc.) can also contribute to the video's pacing and rhythm.",
+                    "StyleAndTone": "The style and tone of the scenes must be consistent with the brand's identity and the video's goals. Whether aiming for a light-hearted, serious, or dramatic tone, the style should engage the target audience and support the video's main message.",
+                    "AdditionalNotes": "The exact number of scenes will depend on the video's narrative structure and the depth of content coverage. The script may include as many scenes as necessary to effectively communicate the video's message, ensuring each scene adds value and contributes to the overall objectives."
+                }
+            ]
+        },
+        "ResponseFormat": {
+            "Scenes": [
+                {
+                    "SceneNumber": "1 (as many as there's supposed to be)",
+                    "SceneDescription": "Detail the visuals, locations, characters, and significant objects within each scene.",
+                    "Dialogue": "Reflect characters' or narrators' speech, conveying emotions or information pertinent to the narrative.",
+                    "VoiceCharacteristics": "Describe the tone, pitch, and style of the narrator or characters, tailored to the scene's mood.",
+                    "CameraMovements": "Explain how camera movements contribute to the scene's dynamic, focusing on key elements or enhancing storytelling.",
+                    "LightingAndShadow": "Detail how lighting and shadows are used to set the mood, emphasize details, or create contrast.",
+                    "Transitions": "Describe the transitions between scenes, ensuring a smooth narrative flow and maintaining viewer engagement.",
+                    "StyleAndTone": "Maintain consistency with the brand's identity, engaging the target audience effectively with the chosen visual and linguistic style."
+                }
+            ]
+        },         
+        "Examples":[]
+    },
+    "FeedbackAndIteration": []
+}

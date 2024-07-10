@@ -1,0 +1,32 @@
+{
+    "Inputs": {
+        "Prerequisites": {
+            "TopicSelection": "",
+            "AdditionalInformation": {}
+        },
+        "Platforms": [],
+        "EstimatedDuration": ""
+    },
+    "Outputs": {
+        "TargetAudienceProfile": {
+            "AgeRange": "",
+            "Interests": [],
+            "Habits": "",
+            "Preferences": []
+        },
+        "VideoGoalsAndConcept": {
+            "Goals": [],
+            "MainMessage": "",
+            "Purpose": "",
+            "Concept": "",
+            "Theme": ""
+        },
+        "NarratororCharacter": {
+            "Description": "",
+            "Role": "",
+            "WhoIsThis": "",
+            "Details": [],
+            "Traits": []
+        }
+    }
+}

@@ -1,0 +1,1009 @@
+{
+    "GuideFor": "How-To Educational Videos",
+    "Description": "Guides viewers through step-by-step processes to learn new skills, complete tasks, or understand complex topics, ranging from simple daily life hacks to in-depth academic subjects.",
+    "TargetAudienceCharacteristics": "Encompasses a wide demographic interested in self-improvement, DIY enthusiasts, students, professionals seeking to upskill, and curious learners of all ages.",
+    "ContentObjectives": "To educate, provide clear instructions, simplify complex concepts, and empower viewers by enhancing their knowledge and skills in a specific domain.",
+    "CalltoAction": [
+        "Try out the techniques shared in this video and share your results with us on social media!",
+        "For more detailed guides and advanced tutorials, subscribe to our channel.",
+        "Got questions or need further clarification? Leave a comment below!",
+        "If you enjoyed this tutorial, share it with friends who might find it useful.",
+        "Check out our playlist for more tutorials on similar topics."
+    ],
+    "SuccessMetrics": "Viewer engagement levels, video completion rates, comments and feedback on clarity and usefulness, growth in subscriber numbers post-release, and application of learned skills by the audience.",
+    "IsAdditionalInformationNeeded": true,
+    "Prerequisites": {
+        "TopicSelection": "A specific subject for the How-To Educational Video is to be selected by the user. This should be an area where in-depth knowledge or a particular skill can be shared effectively. It could range from demonstrating a craft technique, navigating through software, preparing a recipe, to explaining a complex scientific concept. The chosen topic should leverage the user’s expertise and passion, aiming to address a learning need or introduce a fresh perspective to captivate the intended audience",
+        "AdditionalInformation": {
+            "SpecificSkill": "Clarify the particular skill or knowledge area the video will cover.",
+            "DiffucultyLevel": "Define the difficulty level of the content, whether it's beginner-friendly, intermediate, or xperts.",
+            "RequiredTools": "Details about any specific tools, software ot materials needed to follow along with the tutorial.",
+            "LearningObjectives": "Clear statenments on what the viewer should be able to do or understand bu the end of the video."
+        }
+    },
+    "Platforms": [
+        "Primarily YouTube for its educational content ecosystem",
+        "Educational platforms like Udemy",
+        "Social media channels with educational segments",
+        "Personal or educational institution websites"      
+    ],
+    "EstimatedDuration": "5-15 minutes, balancing thorough explanations with concise presentation to maintain viewer engagement while covering the topic comprehensively.",
+    "VideoDraft": {
+        "SectionDescription": "This section guides the creator through drafting the instructional content. It outlines structurng the video script to effectively teach the chosen skill or concept. The draft should include an introduction to the topic, step-by-step guidance through the process, and any necessary theoretical background. Emphasis is on clarity, engagement, and educational value, ensuring viewers can follow along and achieve the learning objectives.",
+        "Prerequisites": {
+            "TopicSelection": "A specific subject for the How-To Educational Video is to be selected by the user. This should be an area where in-depth knowledge or a particular skill can be shared effectively. It could range from demonstrating a craft technique, navigating through software, preparing a recipe, to explaining a complex scientific concept. The chosen topic should leverage the user’s expertise and passion, aiming to address a learning need or introduce a fresh perspective to captivate the intended audience",
+            "AdditionalInformation": {
+                "SpecificSkill": "Clarify the particular skill or knowledge area the video will cover.",
+                "DiffucultyLevel": "Define the difficulty level of the content, whether it's beginner-friendly, intermediate, or xperts.",
+                "RequiredTools": "Details about any specific tools, software ot materials needed to follow along with the tutorial.",
+                "LearningObjectives": "Clear statenments on what the viewer should be able to do or understand bu the end of the video."
+            }
+        },
+        "ExpectedOutcomes": {
+            "TargetAudienceProfile": {
+                "AgeRange": "The age range of the target audience, e.g., '18-24', '30-45', 'university students'.",
+                "Interests": ["A list of interests and hobbies relevant to the target audience."],
+                "Habits": "Focuses on the regular behaviors or practices of the target audience related to video consumption. This includes their viewing patterns, preferred platforms, times they are most likely to watch, and types of content they frequently engage with. ",
+                "Preferences": ["A list of preferences of the target audience, such as content style, tone, and specific elements they favor."]
+            },
+            "VideoGoalsAndConcept": {
+                "Goals": ["A list of specific goals the video aims to achieve, e.g., 'increase brand awareness', 'drive product sales'."],
+                "MainMessage": "The main message or takeaway intended to be conveyed by the video.",
+                "Purpose": "Defines the primary goal or intention behind creating the video, such as educating, entertaining, or informing the audience about a specific topic.",
+                "Concept": "The overarching concept or storyline of the video.",
+                "Theme": "Describes the overarching subject or concept of the video, providing a cohesive narrative or message throughout the content."
+            },
+            "NarratororCharacter":{
+                "Description": "The character is the protagonist of the video, the narrator is the narrator in the video. A video may have both, only one, or neither. This should be determined by the situation of the video.",
+                "Role": "Narrator or Character",
+                "WhoIsThis": "WhoIsThis (Narrator/Character), identifies whether the voice or perspective guiding the video is a specific character, a general narrator, or both, setting the tone and approach for the narrative.",
+                "Details": ["A list of details in-depth information about the narrator or character, including background information or relevant story elements that contribute to their role in the video."],
+                "Traits": ["A list of outlines the distinctive characteristics or qualities of the narrator or character, which can include personality traits, speaking style, or visual appearance, helping to create a more vivid and engaging video experience."]
+            }
+        },
+        "ResponseFormat": {
+            "TargetAudienceProfile": {
+                "AgeRange": "The age range of the target audience, e.g., '18-24', '30-45'.",
+                "Interests": ["A list of interests and hobbies relevant to the target audience."],
+                "Habits": "Focuses on the regular behaviors or practices of the target audience related to video consumption. This includes their viewing patterns, preferred platforms, times they are most likely to watch, and types of content they frequently engage with. ",
+                "Preferences": ["A list of preferences of the target audience, such as content style, tone, and specific elements they favor."]
+            },
+            "VideoGoalsAndConcept": {
+                "Goals": ["A list of specific goals the video aims to achieve, e.g., 'increase brand awareness', 'drive product sales'."],
+                "MainMessage": "The main message or takeaway intended to be conveyed by the video.",
+                "Purpose": "Defines the primary goal or intention behind creating the video, such as educating, entertaining, or informing the audience about a specific topic.",
+                "Concept": "The overarching concept or storyline of the video.",
+                "Theme": "Describes the overarching subject or concept of the video, providing a cohesive narrative or message throughout the content."
+            },
+            "NarratororCharacter":{
+                "Description": "The character is the protagonist of the video, the narrator is the narrator in the video. A video may have both, only one, or neither. This should be determined by the situation of the video.",
+                "Role": "Narrator",
+                "WhoIsThis": "WhoIsThis (Narrator/Character), identifies whether the voice or perspective guiding the video is a specific character, a general narrator, or both, setting the tone and approach for the narrative.",
+                "Details": ["A list of details in-depth information about the narrator or character, including background information or relevant story elements that contribute to their role in the video."],
+                "Traits": ["A list of outlines the distinctive characteristics or qualities of the narrator or character, which can include personality traits, speaking style, or visual appearance, helping to create a more vivid and engaging video experience."]
+            }
+        },
+        "Examples": [
+            {
+                "Inputs":{
+                    "Prerequisites": {
+                        "TopicSelection": "How to Bake a Perfect Chocolate Cake",
+                        "AdditionalInformation": {
+                            "SpecificSkill": "Baking a chocolate cake",
+                            "DiffucultyLevel": "Beginner-friendly",
+                            "RequiredTools": "Oven, mixing bowls, cake pans, ingredients",
+                            "LearningObjectives": "By the end of the video, viewers should be able to bake a chocolate cake from scratch, understand the role of each ingredient, and troubleshoot common baking issues."
+                        }
+                    },
+                    "Platforms": [
+                        "YouTube",
+                        "Personal or educational institution websites"
+                    ],
+                    "EstimatedDuration": "2 minutes"
+                },
+                "Outputs": {
+                    "TargetAudienceProfile": {
+                        "AgeRange": "18-35",
+                        "Interests": ["Baking", "Desserts", "Cooking tutorials"],
+                        "Habits": "Regularly watches cooking and baking tutorials, prefers concise and visually engaging content, and enjoys experimenting with new recipes.",
+                        "Preferences": ["Engaging hosts", "Step-by-step instructions", "Visually appealing content"]
+                    },
+                    "VideoGoalsAndConcept": {
+                        "Goals": ["Educate viewers on baking techniques", "Increase brand awareness for the host's baking channel"],
+                        "MainMessage": "Baking a chocolate cake is simple and enjoyable, even for beginners.",
+                        "Purpose": "To educate and inspire viewers to try baking at home.",
+                        "Concept": "The video will be hosted by a friendly and approachable baker, guiding viewers through the process with clear instructions and helpful tips.",
+                        "Theme": "The theme will revolve around the joy of baking and the satisfaction of creating a delicious dessert from scratch."
+                    },
+                    "NarratororCharacter":{
+                        "Description": "The video will feature a friendly and approachable baker as the host, providing step-by-step instructions and helpful tips throughout the video.",
+                        "Role": "Narrator",
+                        "WhoIsThis": "Narrator",
+                        "Details": ["The host is an experienced baker with a passion for sharing baking knowledge and inspiring others to bake at home."],
+                        "Traits": ["The host's traits include a warm and inviting personality, clear and concise speech, and a visually appealing presentation style."]
+                    }
+                }
+            },
+            {
+                "Inputs":{
+                    "Prerequisites": {
+                        "TopicSelection": "How to Create a Professional Resume",
+                        "AdditionalInformation": {
+                            "SpecificSkill": "Resume writing",
+                            "DiffucultyLevel": "Intermediate",
+                            "RequiredTools": "Computer, word processing software, internet access",
+                            "LearningObjectives": "By the end of the video, viewers should be able to create a professional resume, understand the key components of an effective resume, and tailor their resume to specific job applications."
+                        }
+                    },
+                    "Platforms": [
+                        "YouTube",
+                        "Educational platforms like Udemy"
+                    ],
+                    "EstimatedDuration": "10 minutes"
+                },
+                "Outputs": {
+                    "TargetAudienceProfile": {
+                        "AgeRange": "18-45",
+                        "Interests": ["Career development", "Job hunting", "Professional skills"],
+                        "Habits": "Regularly seeks career advice and professional development resources, prefers detailed and informative content, and actively applies for job opportunities.",
+                        "Preferences": ["In-depth tutorials", "Professional guidance", "Practical tips and examples"]
+                    },
+                    "VideoGoalsAndConcept": {
+                        "Goals": ["Empower viewers to create effective resumes", "Drive engagement with the host's career development platform"],
+                        "MainMessage": "Creating a professional resume is a crucial step in the job application process.",
+                        "Purpose": "To educate and empower viewers to craft compelling resumes tailored to their career goals.",
+                        "Concept": "The video will be hosted by a career coach, providing detailed guidance and practical examples to help viewers create impactful resumes.",
+                        "Theme": "The theme will revolve around the importance of resume writing and the impact of a well-crafted resume on job applications."
+                    },
+                    "NarratororCharacter":{
+                        "Description": "The video will feature a knowledgeable career coach as the host, providing detailed guidance and practical examples throughout the video.",
+                        "Role": "Narrator",
+                        "WhoIsThis": "Narrator",
+                        "Details": ["The host is an experienced career coach with a passion for helping individuals advance in their careers through effective resume writing."],
+                        "Traits": ["The host's traits include a professional and knowledgeable demeanor, clear and detailed explanations, and a supportive and encouraging presentation style."]
+                    }
+                }
+            },
+            {
+                "Inputs":{
+                    "Prerequisites": {
+                        "TopicSelection": "How to Create a Digital Illustration",
+                        "AdditionalInformation": {
+                            "SpecificSkill": "Digital illustration",
+                            "DiffucultyLevel": "Intermediate",
+                            "RequiredTools": "Digital drawing tablet, drawing software, reference images",
+                            "LearningObjectives": "By the end of the video, viewers should be able to create a digital illustration, understand the use of digital drawing tools, and apply basic principles of composition and color theory."
+                        }
+                    },
+                    "Platforms": [
+                        "YouTube",
+                        "Social media channels with educational segments"
+                    ],
+                    "EstimatedDuration": "8 minutes"
+                },
+                "Outputs": {
+                    "TargetAudienceProfile": {
+                        "AgeRange": "15-35",
+                        "Interests": ["Digital art", "Illustration techniques", "Creative tutorials"],
+                        "Habits": "Regularly watches digital art tutorials, prefers visually engaging and informative content, and actively practices digital illustration.",
+                        "Preferences": ["Step-by-step demonstrations", "Creative inspiration", "Engaging visual content"]
+                    },
+                    "VideoGoalsAndConcept": {
+                        "Goals": ["Inspire creativity and skill development in digital art", "Increase engagement with the host's art community"],
+                        "MainMessage": "Digital illustration is a versatile and expressive art form accessible to all.",
+                        "Purpose": "To inspire and educate viewers on digital illustration techniques and creative expression.",
+                        "Concept": "The video will be hosted by a digital artist, providing step-by-step demonstrations and creative insights to inspire viewers.",
+                        "Theme": "The theme will revolve around the versatility and expressive potential of digital illustration as an art form."
+                    },
+                    "NarratororCharacter":{
+                        "Description": "The video will feature a talented digital artist as the host, providing step-by-step demonstrations and creative insights throughout the video.",
+                        "Role": "Narrator",
+                        "WhoIsThis": "Narrator",
+                        "Details": ["The host is a skilled digital artist with a passion for sharing digital illustration techniques and inspiring creativity in others."],
+                        "Traits": ["The host's traits include a creative and expressive demeanor, engaging and inspiring demonstrations, and a visually captivating presentation style."]
+                    }
+                }
+            }
+        ]
+    },
+    "VideoOutline": {
+        "SectionDescription": "This section provides a structured framework for the video's narrative flow, from introduction to conclusion. It sholdu outline how the video will introduce the topic, detail the instructional content, and wrap up with key takeways or further exploration suggestions. The outline ensures a coherent and logical progression of information, facilating better understanding and retention for the audience.",
+        "Prerequisites": {
+            "TopicSelection": "A specific subject for the How-To Educational Video is to be selected by the user. This should be an area where in-depth knowledge or a particular skill can be shared effectively. It could range from demonstrating a craft technique, navigating through software, preparing a recipe, to explaining a complex scientific concept. The chosen topic should leverage the user’s expertise and passion, aiming to address a learning need or introduce a fresh perspective to captivate the intended audience",
+            "AdditionalInformation": {
+                "SpecificSkill": "Clarify the particular skill or knowledge area the video will cover.",
+                "DiffucultyLevel": "Define the difficulty level of the content, whether it's beginner-friendly, intermediate, or xperts.",
+                "RequiredTools": "Details about any specific tools, software ot materials needed to follow along with the tutorial.",
+                "LearningObjectives": "Clear statenments on what the viewer should be able to do or understand bu the end of the video."
+            },
+            "TargetAudienceProfile": {
+                "AgeRange": "The age range of the target audience, e.g., '18-24', '30-45'.",
+                "Interests": ["A list of interests and hobbies relevant to the target audience."],
+                "Habits": "Focuses on the regular behaviors or practices of the target audience related to video consumption. This includes their viewing patterns, preferred platforms, times they are most likely to watch, and types of content they frequently engage with. ",
+                "Preferences": ["A list of preferences of the target audience, such as content style, tone, and specific elements they favor."]
+            },
+            "VideoGoalsAndConcept": {
+                "Goals": ["A list of specific goals the video aims to achieve, e.g., 'increase brand awareness', 'drive product sales'."],
+                "MainMessage": "The main message or takeaway intended to be conveyed by the video.",
+                "Purpose": "Defines the primary goal or intention behind creating the video, such as educating, entertaining, or informing the audience about a specific topic.",
+                "Concept": "The overarching concept or storyline of the video.",
+                "Theme": "Describes the overarching subject or concept of the video, providing a cohesive narrative or message throughout the content."
+            },
+            "NarratororCharacter":{
+                "Description": "The character is the protagonist of the video, the narrator is the narrator in the video. A video may have both, only one, or neither. This should be determined by the situation of the video.",
+                "Role": "Narrator or Character",
+                "WhoIsThis": "WhoIsThis (Narrator/Character), identifies whether the voice or perspective guiding the video is a specific character, a general narrator, or both, setting the tone and approach for the narrative.",
+                "Details": ["A list of details in-depth information about the narrator or character, including background information or relevant story elements that contribute to their role in the video."],
+                "Traits": ["A list of outlines the distinctive characteristics or qualities of the narrator or character, which can include personality traits, speaking style, or visual appearance, helping to create a more vivid and engaging video experience."]
+            }
+        },
+        "ExpectedOutcomes": {
+            "Introduction": {
+                "Hook": "Describe the initial scene or dialogue that will grab the audience's attention.",
+                "Background": "Briefly outline any context needed to understand the video's setting and premise."
+            },
+            "Development": [
+                {
+                    "Section": "1 (as many as there's supposed to be)",
+                    "CoreMessage": "Articulate the primary mesafe of this segment.",
+                    "KeyScenes": "Describe significant scenes and their narrative importance."
+                }
+            ],
+            "Conclusion": {
+                "WrapUp": "Summarize how the narrative will be brought to a close.",
+                "Takeaways": "Highlight the main points or calls to action intended for the audience."
+            },
+            "KeyScenesBreakdown": [
+                {
+                    "Scene": "1 (as many as there's supposed to be)",
+                    "Description": "Provide a vivid description of a key scene.",
+                    "Purpose": "Explain how it conveys a crucial part of the message."
+                }
+            ],
+            "StyleAndTone": {
+                "VisualStyle": "Define the visual elements that will characterize thwe video.",
+                "LinguisticStyle": "Describe the language and tone that will be used throughout the video."
+            }
+        },
+        "ResponseFormat": {
+            "Introduction": {
+                "Hook": "Describe the initial scene or dialogue that will grab the audience's attention.",
+                "Background": "Briefly outline any context needed to understand the video's setting and premise."
+            },
+            "Development": [
+                {
+                    "Section": "1 (as many as there's supposed to be)",
+                    "CoreMessage": "Articulate the primary mesafe of this segment.",
+                    "KeyScenes": [
+                        {
+                            "Scene": "1 (as many as there's supposed to be)",
+                            "Description": "Describe significant scenes and their narrative importance. (as many as there's supposed to be)",
+                            "Purpose": "Explain how it conveys a crucial part of the message."
+                        }
+                    ]
+                }
+            ],
+            "Conclusion": {
+                "WrapUp": "Summarize how the narrative will be brought to a close.",
+                "Takeaways": "Highlight the main points or calls to action intended for the audience."
+            },
+            "KeyScenesBreakdown": [
+                {
+                    "Scene": "1 (as many as there's supposed to be)",
+                    "Description": "Provide a vivid description of a key scene.",
+                    "Purpose": "Explain how it conveys a crucial part of the message."
+                }
+            ],
+            "StyleAndTone": {
+                "VisualStyle": "Define the visual elements that will characterize thwe video.",
+                "LinguisticStyle": "Describe the language and tone that will be used throughout the video."
+            }
+        },
+        "Examples": [
+            {
+                "Inputs": {
+                    "Prerequisites": {
+                        "TopicSelection": "How to Bake a Perfect Chocolate Cake",
+                        "AdditionalInformation": {
+                            "SpecificSkill": "Baking a chocolate cake",
+                            "DiffucultyLevel": "Beginner-friendly",
+                            "RequiredTools": "Oven, mixing bowls, cake pans, ingredients",
+                            "LearningObjectives": "By the end of the video, viewers should be able to bake a chocolate cake from scratch, understand the role of each ingredient, and troubleshoot common baking issues."
+                        }
+                    },
+                    "Platforms": [
+                        "YouTube",
+                        "Personal or educational institution websites"
+                    ],
+                    "EstimatedDuration": "2 minutes",
+                    "TargetAudienceProfile": {
+                        "AgeRange": "18-35",
+                        "Interests": ["Baking", "Desserts", "Cooking tutorials"],
+                        "Habits": "Regularly watches cooking and baking tutorials, prefers concise and visually engaging content, and enjoys experimenting with new recipes.",
+                        "Preferences": ["Engaging hosts", "Step-by-step instructions", "Visually appealing content"]
+                    },
+                    "VideoGoalsAndConcept": {
+                        "Goals": ["Educate viewers on baking techniques", "Increase brand awareness for the host's baking channel"],
+                        "MainMessage": "Baking a chocolate cake is simple and enjoyable, even for beginners.",
+                        "Purpose": "To educate and inspire viewers to try baking at home.",
+                        "Concept": "The video will be hosted by a friendly and approachable baker, guiding viewers through the process with clear instructions and helpful tips.",
+                        "Theme": "The theme will revolve around the joy of baking and the satisfaction of creating a delicious dessert from scratch."
+                    },
+                    "NarratororCharacter": {
+                        "Description": "The video will feature a friendly and approachable baker as the host, providing step-by-step instructions and helpful tips throughout the video.",
+                        "Role": "Narrator",
+                        "WhoIsThis": "Narrator",
+                        "Details": ["The host is an experienced baker with a passion for sharing baking knowledge and inspiring others to bake at home."],
+                        "Traits": ["The host's traits include a warm and inviting personality, clear and concise speech, and a visually appealing presentation style."]
+                    }
+                },
+                "Outputs": {
+                    "Introduction": {
+                        "Hook": "The video opens with a mouth-watering shot of a freshly baked chocolate cake, accompanied by the sound of a timer going off.",
+                        "Background": "The host introduces the video by sharing a personal story of their first attempt at baking a chocolate cake and how it inspired them to create this tutorial."
+                    },
+                    "Development": [
+                        {
+                            "Section": "1",
+                            "CoreMessage": "The core message of this segment is to introduce the key ingredients and their roles in creating a perfect chocolate cake.",
+                            "KeyScenes": [
+                                {
+                                    "Scene": "1",
+                                    "Description": "The host explains the importance of using high-quality cocoa powder and demonstrates the process of sifting the dry ingredients.",
+                                    "Purpose": "To emphasize the significance of using premium ingredients and proper preparation techniques."
+                                },
+                                {
+                                    "Scene": "2",
+                                    "Description": "The host showcases the process of creaming butter and sugar, highlighting the importance of achieving a light and fluffy texture.",
+                                    "Purpose": "To demonstrate the critical step of creaming butter and sugar for a moist and tender cake crumb."
+                                }
+                            ]
+                        }
+                    ],
+                    "Conclusion": {
+                        "WrapUp": "The host summarizes the key steps in baking a perfect chocolate cake and expresses excitement to see the viewers' creations.",
+                        "Takeaways": "The host encourages viewers to share their baking experiences and tag the host's baking channel for a chance to be featured in the next video."
+                    },
+                    "KeyScenesBreakdown": [
+                        {
+                            "Scene": "1",
+                            "Description": "The host's hands carefully measure and sift cocoa powder, creating a cloud of rich, aromatic chocolate.",
+                            "Purpose": "To visually engage the audience and emphasize the importance of using high-quality cocoa powder."
+                        },
+                        {
+                            "Scene": "2",
+                            "Description": "The host's hands expertly cream butter and sugar, showcasing the transformation from granular to creamy and pale.",
+                            "Purpose": "To visually demonstrate the desired texture and consistency for the creaming process."
+                        }
+                    ],
+                    "StyleAndTone": {
+                        "VisualStyle": "The video will feature warm, inviting visuals with close-up shots of ingredients and hands-on baking techniques. The host's kitchen will be brightly lit and visually appealing, creating an inviting atmosphere for the audience.",
+                        "LinguisticStyle": "The host will use a friendly and conversational tone, providing clear and concise instructions while sharing personal anecdotes and baking tips."
+                    }
+                }
+            },
+            {
+                "Inputs": {
+                    "Prerequisites": {
+                        "TopicSelection": "How to Create a Professional Resume",
+                        "AdditionalInformation": {
+                            "SpecificSkill": "Resume writing",
+                            "DiffucultyLevel": "Intermediate",
+                            "RequiredTools": "Computer, word processing software, internet access",
+                            "LearningObjectives": "By the end of the video, viewers should be able to create a professional resume, understand the key components of an effective resume, and tailor their resume to specific job applications."
+                        }
+                    },
+                    "Platforms": [
+                        "YouTube",
+                        "Educational platforms like Udemy"
+                    ],
+                    "EstimatedDuration": "10 minutes",
+                    "TargetAudienceProfile": {
+                        "AgeRange": "18-45",
+                        "Interests": ["Career development", "Job hunting", "Professional skills"],
+                        "Habits": "Regularly seeks career advice and professional development resources, prefers detailed and informative content, and actively applies for job opportunities.",
+                        "Preferences": ["In-depth tutorials", "Professional guidance", "Practical tips and examples"]
+                    },
+                    "VideoGoalsAndConcept": {
+                        "Goals": ["Empower viewers to create effective resumes", "Drive engagement with the host's career development platform"],
+                        "MainMessage": "Creating a professional resume is a crucial step in the job application process.",
+                        "Purpose": "To educate and empower viewers to craft compelling resumes tailored to their career goals.",
+                        "Concept": "The video will be hosted by a career coach, providing detailed guidance and practical examples to help viewers create impactful resumes.",
+                        "Theme": "The theme will revolve around the importance of resume writing and the impact of a well-crafted resume on job applications."
+                    },
+                    "NarratororCharacter": {
+                        "Description": "The video will feature a knowledgeable career coach as the host, providing detailed guidance and practical examples throughout the video.",
+                        "Role": "Narrator",
+                        "WhoIsThis": "Narrator",
+                        "Details": ["The host is an experienced career coach with a passion for helping individuals advance in their careers through effective resume writing."],
+                        "Traits": ["The host's traits include a professional and knowledgeable demeanor, clear and detailed explanations, and a supportive and encouraging presentation style."]
+                    }
+                },
+                "Outputs": {
+                    "Introduction": {
+                        "Hook": "The video opens with a montage of job seekers preparing for interviews and submitting applications, accompanied by a motivational soundtrack.",
+                        "Background": "The host introduces the video by sharing the importance of a well-crafted resume in the job application process and the impact it can have on career opportunities."
+                    },
+                    "Development": [
+                        {
+                            "Section": "1",
+                            "CoreMessage": "The core message of this segment is to introduce the key components of an effective resume and their role in capturing employers' attention.",
+                            "KeyScenes": [
+                                {
+                                    "Scene": "1",
+                                    "Description": "The host explains the purpose of a resume objective or summary and provides examples of compelling statements tailored to different career paths.",
+                                    "Purpose": "To emphasize the importance of a strong opening statement that captures employers' interest and aligns with the job seeker's career goals."
+                                },
+                                {
+                                    "Scene": "2",
+                                    "Description": "The host discusses the significance of showcasing relevant skills and experiences, highlighting the impact of specific examples and quantifiable achievements.",
+                                    "Purpose": "To demonstrate the value of presenting concrete evidence of skills and accomplishments to differentiate the resume from others."
+                                }
+                            ]
+                        }
+                    ],
+                    "Conclusion": {
+                        "WrapUp": "The host summarizes the key elements of an effective resume and encourages viewers to apply the guidance to their own resume writing process.",
+                        "Takeaways": "The host invites viewers to share their resume writing experiences and submit questions for a live Q&A session on the host's career development platform."
+                    },
+                    "KeyScenesBreakdown": [
+                        {
+                            "Scene": "1",
+                            "Description": "The host provides examples of engaging resume objectives tailored to different career paths, displayed on-screen with visually appealing graphics.",
+                            "Purpose": "To visually engage the audience and demonstrate the impact of a well-crafted opening statement."
+                        },
+                        {
+                            "Scene": "2",
+                            "Description": "The host showcases a resume highlighting specific skills and achievements, with on-screen annotations to emphasize key points.",
+                            "Purpose": "To visually demonstrate the effective presentation of skills and accomplishments in a resume."
+                        }
+                    ],
+                    "StyleAndTone": {
+                        "VisualStyle": "The video will feature professional and polished visuals, including on-screen graphics and examples of well-designed resumes. The host's presentation will be supported by visually engaging content to enhance the educational experience.",
+                        "LinguisticStyle": "The host will use a professional and informative tone, providing detailed explanations and practical examples while maintaining a supportive and encouraging demeanor."
+                    }
+                }
+            },
+            {
+                "Inputs": {
+                    "Prerequisites": {
+                        "TopicSelection": "How to Create a Digital Illustration",
+                        "AdditionalInformation": {
+                            "SpecificSkill": "Digital illustration",
+                            "DiffucultyLevel": "Intermediate",
+                            "RequiredTools": "Digital drawing tablet, drawing software, reference images",
+                            "LearningObjectives": "By the end of the video, viewers should be able to create a digital illustration, understand the use of digital drawing tools, and apply basic principles of composition and color theory."
+                        }
+                    },
+                    "Platforms": [
+                        "YouTube",
+                        "Social media channels with educational segments"
+                    ],
+                    "EstimatedDuration": "8 minutes",
+                    "TargetAudienceProfile": {
+                        "AgeRange": "15-35",
+                        "Interests": ["Digital art", "Illustration techniques", "Creative tutorials"],
+                        "Habits": "Regularly watches digital art tutorials, prefers visually engaging and informative content, and actively practices digital illustration.",
+                        "Preferences": ["Step-by-step demonstrations", "Creative inspiration", "Engaging visual content"]
+                    },
+                    "VideoGoalsAndConcept": {
+                        "Goals": ["Inspire creativity and skill development in digital art", "Increase engagement with the host's art community"],
+                        "MainMessage": "Digital illustration is a versatile and expressive art form accessible to all.",
+                        "Purpose": "To inspire and educate viewers on digital illustration techniques and creative expression.",
+                        "Concept": "The video will be hosted by a digital artist, providing step-by-step demonstrations and creative insights to inspire viewers.",
+                        "Theme": "The theme will revolve around the versatility and expressive potential of digital illustration as an art form."
+                    },
+                    "NarratororCharacter": {
+                        "Description": "The video will feature a talented digital artist as the host, providing step-by-step demonstrations and creative insights throughout the video.",
+                        "Role": "Narrator",
+                        "WhoIsThis": "Narrator",
+                        "Details": ["The host is a skilled digital artist with a passion for sharing digital illustration techniques and inspiring creativity in others."],
+                        "Traits": ["The host's traits include a creative and expressive demeanor, engaging and inspiring demonstrations, and a visually captivating presentation style."]
+                    }
+                },
+                "Outputs": {
+                    "Introduction": {
+                        "Hook": "The video opens with a time-lapse of the host creating a captivating digital illustration, accompanied by an upbeat and inspiring soundtrack.",
+                        "Background": "The host introduces the video by sharing their passion for digital art and the goal of inspiring viewers to explore the creative potential of digital illustration."
+                    },
+                    "Development": [
+                        {
+                            "Section": "1",
+                            "CoreMessage": "The core message of this segment is to introduce the essential tools and techniques for creating digital illustrations.",
+                            "KeyScenes": [
+                                {
+                                    "Scene": "1",
+                                    "Description": "The host provides an overview of digital drawing tablets and demonstrates the use of pressure sensitivity and pen tilt for expressive brushwork.",
+                                    "Purpose": "To familiarize viewers with digital drawing tools and showcase their potential for creative expression."
+                                },
+                                {
+                                    "Scene": "2",
+                                    "Description": "The host explains the basics of composition and color theory, using visual examples to illustrate effective design principles.",
+                                    "Purpose": "To educate viewers on fundamental principles of visual art and inspire creative exploration in digital illustration."
+                                }
+                            ]
+                        }
+                    ],
+                    "Conclusion": {
+                        "WrapUp": "The host summarizes the key concepts and techniques covered in the video, encouraging viewers to apply the knowledge to their own digital art projects.",
+                        "Takeaways": "The host invites viewers to share their digital illustrations and participate in a community art challenge hosted on the host's social media platform."
+                    },
+                    "KeyScenesBreakdown": [
+                        {
+                            "Scene": "1",
+                            "Description": "The host's hands demonstrate the use of a digital drawing tablet, capturing expressive brushstrokes and intricate details in a digital illustration.",
+                            "Purpose": "To visually engage the audience and showcase the creative potential of digital drawing tools."
+                        },
+                        {
+                            "Scene": "2",
+                            "Description": "The host presents visual examples of effective composition and color usage, with on-screen annotations to highlight key design principles.",
+                            "Purpose": "To visually educate viewers on fundamental art concepts and inspire creative exploration in digital illustration."
+                        }
+                    ],
+                    "StyleAndTone": {
+                        "VisualStyle": "The video will feature visually captivating demonstrations of digital illustration techniques, with close-up shots of the host's creative process and on-screen annotations to enhance educational content.",
+                        "LinguisticStyle": "The host will use an engaging and inspiring tone, providing clear explanations and creative insights while encouraging viewers to explore their own artistic potential."
+                    }
+                }
+            }
+        ]
+    },
+    "VideoScenes": {
+        "SectionDescription": "In this section, the focus is on planing individual scenes that make up the tutorial. Each scene's purposeis to convey specific parts of the instructional content visually and audibly. Consideations include setting up demonstrations, showcasing examples, and explaning concepts with clarity. The scene planing should aim to engage viewers visually while reinforcing the educational cotent' makin the learning experience both informative and enjoyable.",
+        "Prerequisites": {
+            "TopicSelection": "A specific subject for the How-To Educational Video is to be selected by the user. This should be an area where in-depth knowledge or a particular skill can be shared effectively. It could range from demonstrating a craft technique, navigating through software, preparing a recipe, to explaining a complex scientific concept. The chosen topic should leverage the user’s expertise and passion, aiming to address a learning need or introduce a fresh perspective to captivate the intended audience",
+            "AdditionalInformation": {
+                "SpecificSkill": "Clarify the particular skill or knowledge area the video will cover.",
+                "DiffucultyLevel": "Define the difficulty level of the content, whether it's beginner-friendly, intermediate, or xperts.",
+                "RequiredTools": "Details about any specific tools, software ot materials needed to follow along with the tutorial.",
+                "LearningObjectives": "Clear statenments on what the viewer should be able to do or understand bu the end of the video."
+            },
+            "TargetAudienceProfile": {
+                "AgeRange": "The age range of the target audience, e.g., '18-24', '30-45'.",
+                "Interests": ["A list of interests and hobbies relevant to the target audience."],
+                "Habits": "Focuses on the regular behaviors or practices of the target audience related to video consumption. This includes their viewing patterns, preferred platforms, times they are most likely to watch, and types of content they frequently engage with. ",
+                "Preferences": ["A list of preferences of the target audience, such as content style, tone, and specific elements they favor."]
+            },
+            "VideoGoalsAndConcept": {
+                "Goals": ["A list of specific goals the video aims to achieve, e.g., 'increase brand awareness', 'drive product sales'."],
+                "MainMessage": "The main message or takeaway intended to be conveyed by the video.",
+                "Purpose": "Defines the primary goal or intention behind creating the video, such as educating, entertaining, or informing the audience about a specific topic.",
+                "Concept": "The overarching concept or storyline of the video.",
+                "Theme": "Describes the overarching subject or concept of the video, providing a cohesive narrative or message throughout the content."
+            },
+            "NarratororCharacter":{
+                "Description": "The character is the protagonist of the video, the narrator is the narrator in the video. A video may have both, only one, or neither. This should be determined by the situation of the video.",
+                "Role": "Narrator or Character",
+                "WhoIsThis": "WhoIsThis (Narrator/Character), identifies whether the voice or perspective guiding the video is a specific character, a general narrator, or both, setting the tone and approach for the narrative.",
+                "Details": ["A list of details in-depth information about the narrator or character, including background information or relevant story elements that contribute to their role in the video."],
+                "Traits": ["A list of outlines the distinctive characteristics or qualities of the narrator or character, which can include personality traits, speaking style, or visual appearance, helping to create a more vivid and engaging video experience."]
+            },
+            "Introduction": {
+                "Hook": "Describe the initial scene or dialogue that will grab the audience's attention.",
+                "Background": "Briefly outline any context needed to understand the video's setting and premise."
+            },
+            "Development": [
+                {
+                    "Section": "1 (as many as there's supposed to be)",
+                    "CoreMessage": "Articulate the primary mesafe of this segment.",
+                    "KeyScenes": [
+                        {
+                            "Scene": "1 (as many as there's supposed to be)",
+                            "Description": "Describe significant scenes and their narrative importance. (as many as there's supposed to be)",
+                            "Purpose": "Explain how it conveys a crucial part of the message."
+                        }
+                    ]
+                }
+            ],
+            "Conclusion": {
+                "WrapUp": "Summarize how the narrative will be brought to a close.",
+                "Takeaways": "Highlight the main points or calls to action intended for the audience."
+            },
+            "KeyScenesBreakdown": [
+                {
+                    "Scene": "1",
+                    "Description": "Provide a vivid description of a key scene.",
+                    "Purpose": "Explain how it conveys a crucial part of the message."
+                },
+                {
+                    "Scene": "2",
+                    "Description": "Provide a vivid description of a key scene.",
+                    "Purpose": "Explain how it conveys a crucial part of the message."
+                }
+            ],
+            "StyleAndTone": {
+                "VisualStyle": "Define the visual elements that will characterize thwe video.",
+                "LinguisticStyle": "Describe the language and tone that will be used throughout the video."
+            }
+        },
+        "ExpectedOutcomes": {
+            "Scenes": [
+                {
+                    "SceneNumber": "1 (as many as there's supposed to be)",
+                    "SceneDescription": "Each scene must be meticulously crafted to advance the narrative, convey key information, or evoke the intended emotional response from the audience. The number of scenes will be determined based on the complexity of the topic, the video's duration, and the narrative's pacing requirements.",
+                    "Dialogue": "Dialogues should be engaging and relevant to the scene, enhancing the storytelling or providing valuable information. The language and style of the dialogues should be tailored to fit the target audience's preferences and understanding.",
+                    "VoiceCharacteristics": "The voiceover or characters' speaking style should complement the video's tone, whether it's educational, inspirational, or entertaining. Characteristics such as tone, pace, and emotion play a crucial role in keeping the audience engaged and conveying the video's message.",
+                    "CameraMovements": "Camera movements should be purposeful, enhancing the visual storytelling by focusing on key elements, creating dynamism, or establishing the scene's setting. Techniques could range from static shots to dynamic pans, tilts, and zooms, depending on the scene's requirements.",
+                    "LightingAndShadow": "Lighting and shadow are essential for setting the mood, highlighting important details, or creating contrast. The lighting should align with the video's overall style and the emotional tone of each scene.",
+                    "Transitions": "Transitions between scenes should be smooth and coherent, maintaining the narrative flow. The choice of transitions (cuts, fades, dissolves, etc.) can also contribute to the video's pacing and rhythm.",
+                    "StyleAndTone": "The style and tone of the scenes must be consistent with the brand's identity and the video's goals. Whether aiming for a light-hearted, serious, or dramatic tone, the style should engage the target audience and support the video's main message."
+                    }
+            ]
+        },
+        "ResponseFormat": {
+            "Scenes": [
+                {
+                    "SceneNumber": "1 (as many as there's supposed to be)",
+                    "SceneDescription": "Detail the visuals, locations, characters, and significant objects within each scene.",
+                    "Dialogue": "Reflect characters' or narrators' speech, conveying emotions or information pertinent to the narrative.",
+                    "VoiceCharacteristics": "Describe the tone, pitch, and style of the narrator or characters, tailored to the scene's mood.",
+                    "CameraMovements": "Explain how camera movements contribute to the scene's dynamic, focusing on key elements or enhancing storytelling.",
+                    "LightingAndShadow": "Detail how lighting and shadows are used to set the mood, emphasize details, or create contrast.",
+                    "Transitions": "Describe the transitions between scenes, ensuring a smooth narrative flow and maintaining viewer engagement.",
+                    "StyleAndTone": "Maintain consistency with the brand's identity, engaging the target audience effectively with the chosen visual and linguistic style."
+                }
+            ]
+        },         
+        "Examples":[
+            {
+                "Inputs": {
+                    "Prerequisites": {
+                        "TopicSelection": "How to Bake a Perfect Chocolate Cake",
+                        "AdditionalInformation": {
+                            "SpecificSkill": "Baking a chocolate cake",
+                            "DiffucultyLevel": "Beginner-friendly",
+                            "RequiredTools": "Oven, mixing bowls, cake pans, ingredients",
+                            "LearningObjectives": "By the end of the video, viewers should be able to bake a chocolate cake from scratch, understand the role of each ingredient, and troubleshoot common baking issues."
+                        }
+                    },
+                    "Platforms": [
+                        "YouTube",
+                        "Personal or educational institution websites"
+                    ],
+                    "EstimatedDuration": "2 minutes",
+                    "TargetAudienceProfile": {
+                        "AgeRange": "18-35",
+                        "Interests": ["Baking", "Desserts", "Cooking tutorials"],
+                        "Habits": "Regularly watches cooking and baking tutorials, prefers concise and visually engaging content, and enjoys experimenting with new recipes.",
+                        "Preferences": ["Engaging hosts", "Step-by-step instructions", "Visually appealing content"]
+                    },
+                    "VideoGoalsAndConcept": {
+                        "Goals": ["Educate viewers on baking techniques", "Increase brand awareness for the host's baking channel"],
+                        "MainMessage": "Baking a chocolate cake is simple and enjoyable, even for beginners.",
+                        "Purpose": "To educate and inspire viewers to try baking at home.",
+                        "Concept": "The video will be hosted by a friendly and approachable baker, guiding viewers through the process with clear instructions and helpful tips.",
+                        "Theme": "The theme will revolve around the joy of baking and the satisfaction of creating a delicious dessert from scratch."
+                    },
+                    "NarratororCharacter": {
+                        "Description": "The video will feature a friendly and approachable baker as the host, providing step-by-step instructions and helpful tips throughout the video.",
+                        "Role": "Narrator",
+                        "WhoIsThis": "Narrator",
+                        "Details": ["The host is an experienced baker with a passion for sharing baking knowledge and inspiring others to bake at home."],
+                        "Traits": ["The host's traits include a warm and inviting personality, clear and concise speech, and a visually appealing presentation style."]
+                    },
+                    "Introduction": {
+                        "Hook": "The video opens with a mouth-watering shot of a freshly baked chocolate cake, accompanied by the sound of a timer going off.",
+                        "Background": "The host introduces the video by sharing a personal story of their first attempt at baking a chocolate cake and how it inspired them to create this tutorial."
+                    },
+                    "Development": [
+                        {
+                            "Section": "1",
+                            "CoreMessage": "The core message of this segment is to introduce the key ingredients and their roles in creating a perfect chocolate cake.",
+                            "KeyScenes": [
+                                {
+                                    "Scene": "1",
+                                    "Description": "The host explains the importance of using high-quality cocoa powder and demonstrates the process of sifting the dry ingredients.",
+                                    "Purpose": "To emphasize the significance of using premium ingredients and proper preparation techniques."
+                                },
+                                {
+                                    "Scene": "2",
+                                    "Description": "The host showcases the process of creaming butter and sugar, highlighting the importance of achieving a light and fluffy texture.",
+                                    "Purpose": "To demonstrate the critical step of creaming butter and sugar for a moist and tender cake crumb."
+                                }
+                            ]
+                        }
+                    ],
+                    "Conclusion": {
+                        "WrapUp": "The host summarizes the key steps in baking a perfect chocolate cake and expresses excitement to see the viewers' creations.",
+                        "Takeaways": "The host encourages viewers to share their baking experiences and tag the host's baking channel for a chance to be featured in the next video."
+                    },
+                    "KeyScenesBreakdown": [
+                        {
+                            "Scene": "1",
+                            "Description": "The host's hands carefully measure and sift cocoa powder, creating a cloud of rich, aromatic chocolate.",
+                            "Purpose": "To visually engage the audience and emphasize the importance of using high-quality cocoa powder."
+                        },
+                        {
+                            "Scene": "2",
+                            "Description": "The host's hands expertly cream butter and sugar, showcasing the transformation from granular to creamy and pale.",
+                            "Purpose": "To visually demonstrate the desired texture and consistency for the creaming process."
+                        }
+                    ],
+                    "StyleAndTone": {
+                        "VisualStyle": "The video will feature warm, inviting visuals with close-up shots of ingredients and hands-on baking techniques. The host's kitchen will be brightly lit and visually appealing, creating an inviting atmosphere for the audience.",
+                        "LinguisticStyle": "The host will use a friendly and conversational tone, providing clear and concise instructions while sharing personal anecdotes and baking tips."
+                    }
+                },
+                "Outputs": {
+                    "Scenes":[
+                        {
+                            "SceneNumber": "1",
+                            "SceneDescription": "The video starts in a cozy, well-lit kitchen. The camera focuses variety of high-queality baking ingredients arranged neatley on the counter. We see flour, cocoa powder, eggs, and butter, ready for the baking process.",
+                            "Dialogue": null,
+                            "VoiceCharacteristics": null,
+                            "CameraMovements": "The camera slowly pans over the ingredients, higlihting their quality and the prepration for the baking process.",
+                            "LightingAndShadow": "The kitchen is brightly lit with natural lit with natural light streaming in from a window, casting gentle shadows and giving a watm, inviting tone to the scene.",
+                            "Transitions": "A gentle fade into the host standing by the counter, ready to begin the tutorial.",
+                            "StyleAndTone": "The scene sets a friendly and inviting atmosphere, engaging the viewer's interest in learning how to bake the perfect chocolate cake."
+                        },
+                        {
+                            "SceneNumber": "2",
+                            "SceneDescription": "The host begins to measure and shift the dry ingeridents, starting eith flour and cocoa powder. The process is shown detail, emphasizing the importance of precision in baking.",
+                            "Dialogue": "Host: 'Measuring your ingredients accurately is key to baking success. Let's start by sifting our flour and cocoa powder to ensure our cake is lump-free and has a light, airy texture.'",
+                            "VoiceCharacteristics": "The host speaks in a clear and instructional tone, providing practical tips and encouraging the viewers to follow along.",
+                            "CameraMovements": "Close-up shots of the measuring cups and sifting process, with occasional cuts to the host's face to show their engagement and enthusiasm.",
+                            "LightingAndShadow": "The close-up shots are well-lit, highlighting the texture of the sifted ingredients and the precision of the measuring process.",
+                            "Transitions": "The scene transitions smoothly to the host combining the dry ingredients in a large mixing bowl.",
+                            "StyleAndTone": "Educational and engaging, with a focus on teaching the viewer the basics of ingredient preparation."                          
+                        },
+                        {
+                            "SceneNumber": "3",
+                            "SceneDescription": "After preparing the dry ingredients, the host proceeds to mix them with the wet ingredients including eggs, milk, and melted butter, emphasizing the importance of not overmixing.",
+                            "Dialogue": "Host: 'Now, let's gently combine our wet and dry ingredients. Remember, the key is to mix until just combined to keep our cake tender and fluffy.'",
+                            "VoiceCharacteristics": "Encouraging and patient, the host guides viewers through the mixing process, stressing the importance of a light touch.",
+                            "CameraMovements": "The camera alternates between overhead shots of the mixing bowl and close-up of the host's hands, capturing the folding technique used tto combine ingredients.",
+                            "LightingAndShadow": "Bright and even lighting showcases the consistency of the cake better and them mixing process in clear detail.",
+                            "Transitions": "A smooth transition to the host tapping the mixing bowl on the counter to remove air bubbles before pouring the batter into the cake pan.",
+                            "StyleAndTone": "Supportive and detailed, the scene focusses on demystifying the mixing process and encouraging viewers to bake confidently."
+                        },
+                        {
+                            "SceneNumber": "4",
+                            "SceneDescription": "The host pours the cake batter into a pre-grassed cake pan, smoothing the top with a spatula. The cake pan is then carefully placed into the preheated oven.",
+                            "Dialogue": null,
+                            "VoiceCharacteristics": null,
+                            "CameraMovements":  "Close-up shots of the batter being poured into the pan, followed by a smooth pan to follow the host as they walk to the own.",
+                            "LightingAndShadow": "The kitchen's warm  lightinghighlights the smooth texture of the batter and the careful preparation before baking.",
+                            "Transitions": "A fade transition to a timer being set, indicating the baking time for the cake.",
+                            "StyleAndTone": "Focused and methodical, emphasizing the precision in preparation and the anticipation of baking."
+                        },
+                        {
+                            "SceneNumber": "5",
+                            "SceneDescription": "A time-lapse shows the cake rising and baking in the oven. The host then wears oven mitts, opens the oven, and carefully takes out of the perfectly baked chocolate cake.",
+                            "Dialogue": null,
+                            "VoiceCharacteristics": null,
+                            "CameraMovements": "The camera focuses on the oven's window as the cake bakes, then follows the host's movement as thety remove the cake.",
+                            "LightingAndShadow": "The oven's light illuminates the cake's rising process, casting a warm glow that accentuates the transformation.",
+                            "Transitions": "A crossfade to the host placing the cake on the counter to cool.",
+                            "StyleAndTone": "Anticipatory and satisfying, capturing the transformation of the batter into a delicious cake."
+                        },
+                        {
+                            "SceneNumber": "6",
+                            "SceneDescription": "The host demonstrates icing the cooled cake with chocolate frosting, smoothly spreading it over the top and sides. Thet then garnish the cake with chocolate shaving and fresh berries.",
+                            "Dialogue": "Host: 'Now for the fun part - decorating our cake! A smooth layer of chocolate frosting makes all the difference. And don't forget, a little garnish of fresh berries adds not just color, but also a burst of flavor.'",
+                            "VoiceCharacteristics": "Cheerful amd encouraging, the host shares tips and tricks for decorating, making the process seem enjoyable and accessible to viewers.",
+                            "CameraMovements": "Close-up shots of the frosting being spread with a spatula, followed by a top view as the garnishes aree added.",
+                            "LightingAndShadow": "Soft, natural lighting highlights the texture of the frosting and the vibrant colors of the berries.",
+                            "Transitions": "Fade into the host preparing to cut the cake.",
+                            "StyleAndTone": "Creative and enticing, emphasizing the artistry of cake decoration."
+                        },
+                        {
+                            "SceneNumber": "7",
+                            "SceneDescription": "The host slices the beautifully decorated cake, revealing the moist and fluffy interior. They then serve a slice in a plate, showcasing the perfect texture and the chocolate layers.",
+                            "Dialogue": "Host: 'And now, the moment we've all been waiting for - the taste test! Let's see if our efforts have paid off.'",
+                            "VoiceCharacteristics": "Excited and anticipative, the host invites viewers to virtually share in the tasting of the cake, creating a moment of connection.",
+                            "CameraMovements": "A close-up on the cake as it's being sliced, followed by a zoom in on the slice being placed on the plate.",
+                            "LightingAndShadow": "Bright and warm lighting to enhance the appealing texture and colors of the cake and its toppings.",
+                            "Transitions": "Crossfade to the host taking a bite of the cake, their expression eagerly awaited.",
+                            "StyleAndTone": "Joyful and satisfying, focusing on the culmination of the baking process and the enjoyment of the final product."
+                        },
+                        {
+                            "SceneNumber": "8",
+                            "SceneDescription": "The host, with a satisfied smile, savors the taste of the cake, expressing delight at the flavor. They then look dorectly into the camera, inviting viewers to try making the cake themselves.",
+                            "Dialogue": "Host: 'Thisis just divine! I wish you could taste this through the screen. But since you can't, I guess you'll just have to make it yourself. Trust me, it's worth every bit of effort.'",
+                            "VoiceCharacteristics": "Satisfied and encouraging, the host shares their approval of the cake and motivates viewers to embark on their own baking adventure.",
+                            "CameraMovements": "Close-up of the host tasting the cake, then a direct look into the camera to connect with the audience.",
+                            "LightingAndShadow": "Focused and soft lighting on the host's face to capture their genuine reaction and create a cozy, inviting atmosphere.",
+                            "Transitions": "Fade out with a final message or call to action, such as visiting the host’s website for more recipes or subscribing to the channel for future tutorials.",
+                            "StyleAndTone": "Conclusive and inviting, wrapping up the video on a high note and encouraging viewer interaction and engagement."
+                        }
+                    ]
+                }
+            },
+            {
+                "Inputs": {
+                    "Prerequisites": {
+                        "TopicSelection": "How to Create a Professional Resume",
+                        "AdditionalInformation": {
+                            "SpecificSkill": "Resume writing",
+                            "DiffucultyLevel": "Intermediate",
+                            "RequiredTools": "Computer, word processing software, internet access",
+                            "LearningObjectives": "By the end of the video, viewers should be able to create a professional resume, understand the key components of an effective resume, and tailor their resume to specific job applications."
+                        }
+                    },
+                    "Platforms": [
+                        "YouTube",
+                        "Educational platforms like Udemy"
+                    ],
+                    "EstimatedDuration": "10 minutes",
+                    "TargetAudienceProfile": {
+                        "AgeRange": "18-45",
+                        "Interests": ["Career development", "Job hunting", "Professional skills"],
+                        "Habits": "Regularly seeks career advice and professional development resources, prefers detailed and informative content, and actively applies for job opportunities.",
+                        "Preferences": ["In-depth tutorials", "Professional guidance", "Practical tips and examples"]
+                    },
+                    "VideoGoalsAndConcept": {
+                        "Goals": ["Empower viewers to create effective resumes", "Drive engagement with the host's career development platform"],
+                        "MainMessage": "Creating a professional resume is a crucial step in the job application process.",
+                        "Purpose": "To educate and empower viewers to craft compelling resumes tailored to their career goals.",
+                        "Concept": "The video will be hosted by a career coach, providing detailed guidance and practical examples to help viewers create impactful resumes.",
+                        "Theme": "The theme will revolve around the importance of resume writing and the impact of a well-crafted resume on job applications."
+                    },
+                    "NarratororCharacter": {
+                        "Description": "The video will feature a knowledgeable career coach as the host, providing detailed guidance and practical examples throughout the video.",
+                        "Role": "Narrator",
+                        "WhoIsThis": "Narrator",
+                        "Details": ["The host is an experienced career coach with a passion for helping individuals advance in their careers through effective resume writing."],
+                        "Traits": ["The host's traits include a professional and knowledgeable demeanor, clear and detailed explanations, and a supportive and encouraging presentation style."]
+                    },
+                    "Introduction": {
+                        "Hook": "The video opens with a montage of job seekers preparing for interviews and submitting applications, accompanied by a motivational soundtrack.",
+                        "Background": "The host introduces the video by sharing the importance of a well-crafted resume in the job application process and the impact it can have on career opportunities."
+                    },
+                    "Development": [
+                        {
+                            "Section": "1",
+                            "CoreMessage": "The core message of this segment is to introduce the key components of an effective resume and their role in capturing employers' attention.",
+                            "KeyScenes": [
+                                {
+                                    "Scene": "1",
+                                    "Description": "The host explains the purpose of a resume objective or summary and provides examples of compelling statements tailored to different career paths.",
+                                    "Purpose": "To emphasize the importance of a strong opening statement that captures employers' interest and aligns with the job seeker's career goals."
+                                },
+                                {
+                                    "Scene": "2",
+                                    "Description": "The host discusses the significance of showcasing relevant skills and experiences, highlighting the impact of specific examples and quantifiable achievements.",
+                                    "Purpose": "To demonstrate the value of presenting concrete evidence of skills and accomplishments to differentiate the resume from others."
+                                }
+                            ]
+                        }
+                    ],
+                    "Conclusion": {
+                        "WrapUp": "The host summarizes the key elements of an effective resume and encourages viewers to apply the guidance to their own resume writing process.",
+                        "Takeaways": "The host invites viewers to share their resume writing experiences and submit questions for a live Q&A session on the host's career development platform."
+                    },
+                    "KeyScenesBreakdown": [
+                        {
+                            "Scene": "1",
+                            "Description": "The host provides examples of engaging resume objectives tailored to different career paths, displayed on-screen with visually appealing graphics.",
+                            "Purpose": "To visually engage the audience and demonstrate the impact of a well-crafted opening statement."
+                        },
+                        {
+                            "Scene": "2",
+                            "Description": "The host showcases a resume highlighting specific skills and achievements, with on-screen annotations to emphasize key points.",
+                            "Purpose": "To visually demonstrate the effective presentation of skills and accomplishments in a resume."
+                        }
+                    ],
+                    "StyleAndTone": {
+                        "VisualStyle": "The video will feature professional and polished visuals, including on-screen graphics and examples of well-designed resumes. The host's presentation will be supported by visually engaging content to enhance the educational experience.",
+                        "LinguisticStyle": "The host will use a professional and informative tone, providing detailed explanations and practical examples while maintaining a supportive and encouraging demeanor."
+                    }
+                },
+                "Outputs": {
+                    "Scenes": [
+                        {
+                            "SceneNumber": "1",
+                            "SceneDescription": "The video begins with a dynamic opening showcasing individuals in various stages of their career, actively preparing their resumes and sending out job applications. The scene is set to an uplifting and and motivional sondtrack yo immediately engage the viewer.",
+                            "Dialogue": "Narrator: 'In the journey of your career, crafting a professional resume is a pivotal step that can set you apart.'",
+                            "VoiceCharacteristics": "The narrator's tone is inspring yet authoritative, instilling a sense of hope and urging the importance of a well-prepared resume.",
+                            "CameraMovements": "Starts with wide shots of individuals working on their resumes, gradually zooming in to highlight the focus and determination on their faces.",
+                            "LightingAndShadow": "Utilizes bright asnd optimistic lighting to create a warm and inviting atmosphere, highlighting the subjects and their faces.",
+                            "Transitions": "A smooth transition that fades into the next scene, where the focus narrows down to the essential elements of a resume.",
+                            "StyleAndTone": "Motivational and informative. The scene is designed to capture the viewer's attention and convey the critical importance of a professional resume in the job-seeking process."
+                        },
+                        {
+                            "SceneNumber": "2",
+                            "SceneDescription": "Transitioning from the indroductory montage, the scene shifts to a serene home office setting where a career coach(the narrator) sits in front of a computer, ready to dive into the specifics of resume crafting. The background showcases a neat, professional space that suggets organization and efficiency.",
+                            "Dialogue": "Narrator: 'Let's begin by understanding the role your resume plays. It's not just a document: It's your career story, your professional introduction to potential employers.'",
+                            "VoiceCharacteristics": "The narrator speaks in a clear, concise manner, emphasizing the significance of the resume in the job application process. The tone is encouraging, aimed at empowering viewers to take control of their narrative.",
+                            "CameraMovements": "The camera focusses on the career coach speaking directly to the viewers, cutting to close-ups of the computer screen displaying a blank resume template, ready for action.",
+                            "LightingAndShadow": "Soft, even lighting illuminates the speaker, aoviding harsh shadows to maintain a friendly and approachable visual.",
+                            "Transitions": "A gentle fade from the careers coach's introduction to a closer view of the resume template, signaling the start of the step-by-step guidance.",
+                            "StyleAndTone": "Professional and educational. This scene sets the stage for the viewers to understand the importance of each section they willout on their resumes, bridging the motivational introduction to the actionable advice that follows."
+                        },
+                        {
+                            "SceneNumber": "3",
+                            "SceneDescription": "The career coach is shown interacting with a digital resume template projected on the screen behind them. They begin to outline the structure of a professional resume, starting with the header and moving on to the resume objective or summary.",
+                            "Dialogue": "Narrator: 'Your resme's introduction is your chance to make a strong first impression. Whether you choose a summary or an objective, it should succintly convey your professional identity and aspirations.",
+                            "VoiceCharacteristics": "The narrator's tone becomes more instructive, emphasizing the strategic nature of crafting the resume's opening lines. They maintain an encouraging demeanor, making the process seem achievable and exciting.",
+                            "CameraMovements": "The camera alternates between the career coach's engaging explanations and zoomed-in views of the digital resume template, highlighting the sections being discussed.",
+                            "LightingAndShadow": "The lighting remains soft and even, focusing on the speaker and the screen to keep the audience's attention on the instructions.",
+                            "Transitions": "A smooth transition to a visual example of both a resume objective and a summary, with key phrases highlighted for emphasis.",
+                            "StyleAndTone": "Educational and supportive. This scene is designed to demystify the process of starting a resume by providing clear, actionable advice on creating a compelling introduction."
+                        },
+                        {
+                            "SceneNumber": "4",
+                            "SceneDescription": "Transitioning smoothly from the introduction, the career coach now focuses on the 'Experience' section. They demonstrate how to list professional experiences in reverse chronological order, emphasizing the importance of action verbs and quantifiable results.",
+                            "Dialogue": "Narrator: 'When detailing your experiences, start with your most recent role. Use action verbs to desscribe your responsibilities and achievements. For example, 'incereased sales by 20%' is more impactful the 'Responsible for managing sales.''",
+                            "VoiceCharacteristics": "The narrator provides these instructions with clarity and precision, ensuring that viewers understand the significance of presenting their experiences effectively.",
+                            "CameraMovements": "The camera zooms in on the digital screen as the career coach uses a pointer to highlight examples of well-written experience descriptions.",
+                            "LightingAndShadow": "Consistent with previous scenes, the lighting is designed to keep the focus on the speaker and the educational content, ensuring the text on screen is easily readable.",
+                            "Transitions": "A graphical transition that illustrates the transformation of a bland experience entry into a compelling, result-oriented description.",
+                            "StyleAndTone": "The style continues to be professional and polished, with the tone remaining informative and supportive. This scene empowers viewers to reflect on their own experiences and how to present them in the best light."
+                        },
+                        {
+                            "SceneNumber": "5",
+                            "SceneDescription": "This scene shifts focus to the 'Education' and 'Certifications' sections of the resume. The career coach outlines how to list educational qualifications, including degrees, certifications, and any relevant coursework or projects that might appeal to employers.",
+                            "Dialogue": "Narrator: 'In the education section, include your degrees and any certifications that enhance your qualifications for the job. Highlight coursework or projects that demonstrate applicable skills or knowledge. Remember, relevance is key.'",
+                            "VoiceCharacteristics": "Clear and authoritative, the narrator emphasizes the importance of relevance in the education section, guiding viewers on selecting information that aligns with their job goals.",
+                            "CameraMovements": "Close-ups on the digital screen showing how to organize the education section effectively, including icons or bullet points for clarity.",
+                            "LightingAndShadow": "Bright lighting on the screen area ensures the text is the focal point, with shadows used minimally to maintain the professional atmosphere.",
+                            "Transitions": "Smooth transition from the experiences section to education, visually separating the segments for better viewer comprehension.",
+                            "StyleAndTone": "Maintaining the professional and polished aesthetic, the tone is both informative and encouraging, aiming to make viewers feel capable and prepared to enhance their resumes with their educational background."
+                        },
+                        {
+                            "SceneNumber": 6,
+                            "SceneDescription": "This scene emphasizes the 'Skills' section, where the career coach demonstrates how to effectively showcase both soft and hard skills. The screen displays examples of skill categories and specific skills that are attractive to employers in various industries.",
+                            "Dialogue": "Narrator: 'Your skills section is a powerful tool to showcase your abilities. Include a mix of soft skills, like teamwork and communication, alongside hard skills, such as specific software proficiency or technical abilities.'",
+                            "VoiceCharacteristics": "The narrator's tone is encouraging and informative, providing clear examples and stressing the balance between soft and hard skills.",
+                            "CameraMovements": "The camera pans over a displayed resume on a computer screen, focusing on the skills section. Highlighted bullet points draw attention to exemplary skills that match job descriptions.",
+                            "LightingAndShadow": "Well-lit visuals ensure the text is easy to read, with subtle shadows adding depth to the on-screen examples for a dynamic viewing experience.",
+                            "Transitions": "A smooth fade-in from the previous education section to the skills section, maintaining the narrative flow and keeping the viewer engaged.",
+                            "StyleAndTone": "Professional yet approachable, the scene is designed to demystify the skills section, making it accessible and actionable for viewers with varying levels of experience."
+                        },
+                        {
+                            "SceneNumber": 7,
+                            "SceneDescription": "The scene shifts ocus to the 'Work Experience' section. The career coach, standing next to a large screen displaying a sample resume, points out how to structure this section for maximum impact. Each job listing shows the position title, company name, employment dates, and bullet points highlighting key responsibilities and achievements.",
+                            "Dialogue": "Narrator: 'The Work Experience section is where you bring your professional journey to life. Here’s how to layout your roles to showcase your achievements and growth.'",
+                            "VoiceCharacteristics": "As the narrator speaks, their tone becomes more dynamic, emphasizing the importance of this section in illustrating the viewer's career path.",
+                            "CameraMovements": "Zooming in on the displayed resume’s work experience section, the camera captures the details of job descriptions and bullet points, then pans to the coach for emphasis on certain points.",
+                            "LightingAndShadow": "The lighting focuses on the resume, making the text crisp and easy to read, with the coach well-lit as they provide explanations, creating a sense of importance around their advice.",
+                            "Transitions": "Transition from the skills section with a smooth cut that brings viewers directly into the details of crafting an effective work experience listing.",
+                            "StyleAndTone": "The scene is instructional and supportive, designed to empower viewers to reflect on their work history and articulate it compellingly on their resume."
+                        },
+                        {
+                            "SceneNumber": "8",
+                            "SceneDescription": "The camera pans to a new section on the resume displayed on the screen beside the career coach. This section is 'Education and Certifications.' The coach explains the importance of listing educational qualifications and any certifications relevant to the job being applied for. They demonstrate the best way to organize this information, starting with the most recent educational achievement and working backward.",
+                            "Dialogue": "Narrator: 'Education and certifications are key components of your resume, showcasing your foundational knowledge and specialized skills. Let's look at how to present these effectively.'",
+                            "VoiceCharacteristics": "The narrator's voice adopts an encouraging tone, aimed at motivating viewers to accurately represent their academic and professional learning achievements.",
+                            "CameraMovements": "Close-ups on the education and certifications section of the resume, highlighting the arrangement of degrees, institutions, graduation dates, and any notable certifications.",
+                            "LightingAndShadow": "Bright, focused lighting on the resume section, ensuring the text is the focal point, with softer lighting on the coach to keep the viewer's attention on the resume content.",
+                            "Transitions": "A smooth transition from the work experience section to education, maintaining the instructional flow of the video.",
+                            "StyleAndTone": "Educational and reassuring, this scene provides viewers with a clear understanding of how to effectively list their academic background and professional development on their resume."
+                        },
+                        {
+                            "SceneNumber": "9",
+                            "SceneDescription": "The career coach transitions to discussing the importance of including volunteer work and hobbies on the resume. They emphasize how these sections can showcase personality traits, soft skills, and community involvement, which are increasingly valued by employers. The coach provides examples of how to list volunteer experiences and hobbies that align with the job's requirements.",
+                            "Dialogue": "Narrator: 'In addition to your professional experiences, your volunteer work and hobbies can also make a significant impact. These sections demonstrate your character, skills outside of work, and your ability to contribute to a team and community.'",
+                            "VoiceCharacteristics": "The narrator's tone is enthusiastic and supportive, encouraging viewers to think creatively about how their personal interests and unpaid work can be appealing to potential employers.",
+                            "CameraMovements": "The camera shows examples of resumes that include well-integrated sections for volunteer work and hobbies, focusing on how each entry is described.",
+                            "LightingAndShadow": "Consistent with previous scenes, the lighting highlights the resume's sections being discussed, with softer lighting on the surrounding areas to maintain focus.",
+                            "Transitions": "A gentle fade from the education and certifications section to the new topics of volunteer work and hobbies, seamlessly continuing the guide on crafting a comprehensive resume.",
+                            "StyleAndTone": "Informative and inspirational, this scene motivates viewers to consider all aspects of their lives that can contribute to a compelling resume."
+                        },
+                        {
+                            "SceneNumber": "10",
+                            "SceneDescription": "The scene shifts to the career coach emphasizing the critical last step in resume creation: proofreading and adding final touches. They highlight common mistakes to avoid, such as typos and grammatical errors, and stress the importance of a clean, professional layout that is easy to read.",
+                            "Dialogue": "Narrator: 'Before you hit 'send' on your job application, taking the time to proofread your resume is crucial. Even a small typo can detract from your professionalism. Let's ensure your resume is polished to perfection.'",
+                            "VoiceCharacteristics": "The narrator adopts a meticulous and careful tone, underscoring the importance of attention to detail in creating a flawless resume.",
+                            "CameraMovements": "Close-up shots of a computer screen where a resume is being reviewed and edited, highlighting the proofreading process and adjustments being made for a clean layout.",
+                            "LightingAndShadow": "Bright lighting focuses on the document on the screen, symbolizing clarity and thoroughness, with shadows used minimally to keep attention on the content.",
+                            "Transitions": "A smooth transition from discussing content sections to focusing on the final review process, maintaining the instructional flow of the video.",
+                            "StyleAndTone": "The style remains professional and the tone becomes more focused and serious, reflecting the significance of this final step in the resume crafting process."
+                        },
+                        {
+                            "SceneNumber": "11",
+                            "SceneDescription": "The video closes with the host standing confidently in front of a backdrop of inspiring career visuals. The host reiterates the key points discussed throughout the video, emphasizing the importance of a well-crafted resume in achieving career goals.",
+                            "Dialogue": "Narrator: 'Remember, a great resume is your ticket to your dream job. Use what you've learned today to showcase your skills and experiences confidently. Don't hesitate to reach out for help or use online resources to make your resume stand out. Good luck on your job search, and remember, you've got this!'",
+                            "VoiceCharacteristics": "Motivational and confident, encouraging the viewers to take action and apply the lessons learned.",
+                            "CameraMovements": "Slow zoom in on the host to capture their encouraging expression and gesture.",
+                            "LightingAndShadows": "Warm and inviting lighting to create a hopeful atmosphere for the viewers.",
+                            "Transitions": "Fade out to the host's career development platform logo and a call-to-action inviting viewers to subscribe or visit the website for more tips.",
+                            "StyleAndTone": "Optimistic and supportive, leaving the viewers with a sense of confidence and readiness to tackle their resume writing."
+                          }
+                    ]
+                }
+            }
+        ]
+    },
+    "FeedbackAndIteration": []
+}

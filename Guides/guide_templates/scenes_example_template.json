@@ -1,0 +1,70 @@
+{
+    "Inputs": {
+        "Prerequisites": {
+            "TopicSelection": "",
+            "AdditionalInformation": {}
+        },
+        "Platforms": [],
+        "EstimatedDuration": "",
+        "TargetAudienceProfile": {
+            "AgeRange": "",
+            "Interests": [],
+            "Habits": "",
+            "Preferences": []
+        },
+        "VideoGoalsAndConcept": {
+            "Goals": [],
+            "MainMessage": "",
+            "Purpose": "",
+            "Concept": "",
+            "Theme": ""
+        },
+        "NarratororCharacter": {
+            "Description": "",
+            "Role": "",
+            "WhoIsThis": "",
+            "Details": [],
+            "Traits": []
+        },
+        "Introduction": {
+            "Hook": "",
+            "Background": ""
+        },
+        "Development": [
+            {
+                "Section": "",
+                "CoreMessage": "",
+                "KeyScenes": []
+            }
+        ],
+        "Conclusion": {
+            "WrapUp": "",
+            "Takeaways": ""
+        },
+        "KeyScenesBreakdown": [
+            {
+                "Scene": "",
+                "Description": "",
+                "Purpose": ""
+            }
+        ],
+        "StyleAndTone": {
+            "VisualStyle": "",
+            "LingusticStyle": ""
+        }
+    },
+    "Outputs": {
+        "Scenes": [
+            {
+                "SceneNumber": "",
+                "SceneDescription": "",
+                "Dialogue": "",
+                "VoiceCharacteristics": "",
+                "CameraMovements": "",
+                "LightingAndShadow": "",
+                "Transitions": "",
+                "StyleAndTone": ""
+            }
+        ]
+    }
+}

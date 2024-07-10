@@ -1,0 +1,22 @@
+{   
+    "Prerequisites": {
+        "TopicSelection": ""
+    },
+
+    "VideoDraft": {
+    "Prerequisites": {
+        "TopicSelection": ""
+        }
+    },
+    "VideoOutline": {
+    "Prerequisites": {
+        "TopicSelection": ""
+        }
+    },
+    "VideoScenes": {
+    "Prerequisites": {
+        "TopicSelection": ""
+        }
+    }
+    
+}
