@@ -7,7 +7,7 @@ from typing import Optional
 from fastapi import HTTPException
 
 
-# open ai key inputs
+# open ai key inputs 
 class  CreateMain(BaseModel):
     GuideFor: str
     Status: Optional[str] = 'Create'
