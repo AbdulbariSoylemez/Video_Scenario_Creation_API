@@ -1,7 +1,7 @@
 
 **Amaç**
 
-Bu proje, OpenAI'nin GPT-3.5-Turbo dil modelini kullanarak interaktif video senaryolarının otomatik olarak oluşturulmasını sağlar. Kullanıcı dostu bir arayüz sunarak senaryo oluşturma sürecini kolaylaştırır. Proje, farklı senaryo bölümleri (taslak, ana hat, sahneler) için örnekler oluşturarak yaratıcılığı teşvik eder ve kullanıcılara esneklik sağlar.
+Bu proje, OpenAI dil modelinin API'lerini kullanarak interaktif video senaryolarının otomatik olarak oluşturulmasını sağlar. Kullanıcı dostu bir arayüz sunarak senaryo oluşturma sürecini kolaylaştırır. Proje, farklı senaryo bölümleri (taslak, ana hat, sahneler) için örnekler oluşturarak yaratıcılığı teşvik eder ve kullanıcılara esneklik sağlar.
 
 **Nasıl Çalışır**
 
