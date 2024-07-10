@@ -9,7 +9,7 @@ def update_main_data_function(main_data, item):
         'Description': item.Description,
         'TargetAudienceCharacteristics': item.TargetAudienceCharacteristics,
         'ContentObjectives': item.ContentObjectives,
-        'CalltoAction': item.CalltoAction,
+        'CalltoAction': item.CalltoAction, 
         'SuccessMetrics': item.SuccessMetrics,
         'IsAdditionalInformationNeeded': item.IsAdditionalInformationNeeded,
         'Platforms': item.Platforms,
