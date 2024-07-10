@@ -5,7 +5,7 @@ from prompt_ai import VideoScriptGeneratorExamplesDraft,VideoScriptGeneratorExam
 
 
 app = FastAPI()
-
+ 
 @app.post("/create_main")  
 async def create_main_service(item: CreateMain):
     return create_main(item)
