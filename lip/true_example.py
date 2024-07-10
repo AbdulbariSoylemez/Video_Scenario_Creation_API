@@ -23,7 +23,7 @@ def example_true_json():
             "ProductOrServiceDetails": "Detailed information about the brand's key products or services.",
             "TargetAudience": "An analysis of the brand's target audience demographics and preferences."
         }
-    },
+    }, 
     "Platforms": [
         "Corporate Website",
         "Social Media (LinkedIn, Facebook, Instagram, Twitter)",
